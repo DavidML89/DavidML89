@@ -3,7 +3,7 @@
 
 - 🏗️ After studying and working as architect in France, I decided to have a career switch for web developer.
 
-- 🚋 I followed the bootcamp with [@lewagon](https://github.com/lewagon), where during 9 intensive and passioning weeks, I learned Ruby, Ruby on rails, html, css, js, SQL,...
+- 🚋 I followed the bootcamp with [@lewagon](https://github.com/lewagon), where during 9 intensive and exciting weeks, I learned Ruby, Ruby on rails, html, css, js, SQL,...
 
 - 🚀 You can check my last bootcamp project [Skill-Up](https://github.com/DavidML89/Skill_Up_Project) and the website on www.skill-up.xyz
 
