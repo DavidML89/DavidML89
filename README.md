@@ -7,7 +7,7 @@
 
 - 🚀 You can check my last bootcamp project [Skill-Up](https://github.com/DavidML89/Skill_Up_Project) and the website on www.skill-up.xyz
 
-- 🌱 I’m currently learning **React & Redux**
+- 🌱 I’m currently learning **React & Redux** 🤓
 
 - 🤝 I’m looking for a job **with a great company where I could extend my knowledge and bring a fresh point of view**
 
